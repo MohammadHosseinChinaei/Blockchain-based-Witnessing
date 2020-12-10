@@ -24,5 +24,4 @@ npm install web3
 
 ```
 brew install node
-
 ```
