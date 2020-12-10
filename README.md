@@ -1,4 +1,4 @@
-# Blockchain-based-Witnessing
+# Blockchain-based Witnessing
 
 The source code of this repository will be released once our research paper (Optimal Witnessing of Healthcare IoT Data Using Blockchain Logging Contract) is accepted.
 
